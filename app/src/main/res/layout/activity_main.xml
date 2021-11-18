@@ -9,7 +9,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World"
+        android:textAppearance="@style/Text.SemiBold.XXLarge"
+        android:textColor="@color/white"
+        android:background="@drawable/pink_blue_gradient_ring"
+        android:text="@string/hello_world"
+        android:padding="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
