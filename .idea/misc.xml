@@ -9,6 +9,10 @@
         <entry key="..\:/dev/projects/MovieTime/app/src/main/res/drawable/purple_pink_horizontal_gradient.xml" value="0.37135416666666665" />
         <entry key="..\:/dev/projects/MovieTime/app/src/main/res/font/app_font.xml" value="0.3875" />
         <entry key="..\:/dev/projects/MovieTime/app/src/main/res/layout/activity_main.xml" value="0.19701086956521738" />
+        <entry key="..\:/dev/projects/MovieTime/app/src/main/res/layout/fragment_nav_host.xml" value="0.10285714285714286" />
+        <entry key="..\:/dev/projects/MovieTime/app/src/main/res/layout/fragment_splash.xml" value="0.17864583333333334" />
+        <entry key="..\:/dev/projects/MovieTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15925925925925927" />
+        <entry key="..\:/dev/projects/MovieTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15925925925925927" />
       </map>
     </option>
   </component>
